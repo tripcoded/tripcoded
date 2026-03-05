@@ -1,0 +1,153 @@
+[
+  {
+    "name": "Om Abhishek Tripathi",
+    "profile_photo": "https://avatars.githubusercontent.com/u/206809037?v=4",
+    "current_profession": "B.Tech IT Student | Aspiring AI Developer",
+    "current_company": "IET, Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur",
+    "resume_link": "https://drive.google.com/file/d/1mjGg3neOUuRLlkFn-0zFJrmYDjvRHdEv/view?usp=drive_link",
+
+    "contact": {
+      "phone": "(+91) 8112794569",
+      "email": "omabhishektripathi@gmail.com"
+    },
+
+    "address": {
+      "city": "Gorakhpur",
+      "permanent_address": "Uttar Pradesh, India",
+      "current_address": null
+    },
+
+    "social_accounts": {
+      "github": "https://github.com/tripcoded",
+      "linkedin": "https://www.linkedin.com/in/om-tripathi",
+      "instagram": null
+    },
+
+    "bio": "I am a B.Tech (Information Technology) student at IET Gorakhpur with a strong interest in Artificial Intelligence, software development, and modern web technologies. I enjoy building full-stack applications, solving programming problems, and continuously improving my skills through projects, open-source contributions, and technical learning.",
+
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "HTML5",
+      "CSS3",
+      "TailwindCSS",
+      "React.js",
+      "Next.js",
+      "Flask",
+      "Node.js",
+      "MongoDB",
+      "SQL",
+      "FastAPI",
+      "REST APIs",
+      "Git",
+      "GitHub"
+    ],
+
+    "experience": [
+      {
+        "company_name": "Entrepreneurship Development Cell (eDC), IIT Delhi",
+        "post": "Campus Ambassador",
+        "duration": "Dec 2025 - Feb 2026"
+      },
+      {
+        "company_name": "Elite Coders (ECWoc'26)",
+        "post": "Open Source Contributor / Freelance Developer",
+        "duration": "Dec 2025 - Present"
+      }
+    ],
+
+    "education": [
+      {
+        "institute_logo": null,
+        "institute_name": "IET, Deen Dayal Upadhyaya Gorakhpur University",
+        "course_type": "Graduation",
+        "course_name": "B.Tech (Information Technology)",
+        "date": "2024-2028",
+        "score": {
+          "score_type": "CGPA",
+          "score": 7.98
+        },
+        "skill_acquired": [
+          "Programming",
+          "Web Development",
+          "Software Engineering",
+          "Problem Solving"
+        ]
+      },
+      {
+        "institute_logo": null,
+        "institute_name": "D.A.V. Public School, Robertsganj",
+        "course_type": "Intermediate (CBSE)",
+        "course_name": null,
+        "date": "2022-2023",
+        "score": {
+          "score_type": "Percentage",
+          "score": 84.6
+        },
+        "skill_acquired": null
+      }
+    ],
+
+    "projects": [
+      {
+        "project_title": "Track My Bus",
+        "project_type": "Public",
+        "project_description": "A full-stack real-time bus tracking application that allows users to monitor live bus locations and plan travel efficiently using location-based updates. Designed and implemented the entire system including architecture and real-time tracking integration.",
+        "core_technology": "Full Stack Development",
+        "repository": null,
+        "project_link": "https://track-my-bus-teal.vercel.app/"
+      },
+      {
+        "project_title": "EduGrow",
+        "project_type": "Public",
+        "project_description": "An interactive educational platform focused on gamified learning with dashboards and engaging UI. Contributed primarily to frontend development by building responsive components and implementing user interaction features.",
+        "core_technology": "Frontend Development",
+        "repository": null,
+        "project_link": "https://edu-grow-zeta.vercel.app/"
+      },
+      {
+        "project_title": "DealScout",
+        "project_type": "Public",
+        "project_description": "Worked on backend development and API integration for a product search and price comparison platform, enabling efficient communication between backend services and frontend applications.",
+        "core_technology": "Backend Development",
+        "repository": null,
+        "project_link": "https://inquisitive-quokka-bc4bab.netlify.app/"
+      }
+    ],
+
+    "certificates": [
+      {
+        "authority_logo": null,
+        "certificate_name": "Artificial Intelligence Certification",
+        "issuing_authority": "Samsung Innovation Campus",
+        "certified_for": "Certification"
+      },
+      {
+        "authority_logo": null,
+        "certificate_name": "Google Analytics Certification",
+        "issuing_authority": "Google Analytics",
+        "certified_for": "Certification"
+      },
+      {
+        "authority_logo": null,
+        "certificate_name": "Data Visualization Job Simulation",
+        "issuing_authority": "Tata Group (Forage)",
+        "certified_for": "Simulation"
+      },
+      {
+        "authority_logo": "https://www.techxninjas.com/assets/techxninjas_logo-Bh_7NDX-.png",
+        "certificate_name": "Paranox 2.0 Hackathon",
+        "issuing_authority": "Unstop",
+        "certified_for": "Finalist"
+      },
+      {
+        "authority_logo": null,
+        "certificate_name": "Data Analyst Certification",
+        "issuing_authority": "United Latino Students Association",
+        "certified_for": "Certification"
+      }
+    ]
+  }
+]
