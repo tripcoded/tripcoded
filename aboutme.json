@@ -119,19 +119,19 @@
 
     "certificates": [
       {
-        "authority_logo": null,
+        "authority_logo": "https://raw.githubusercontent.com/tripcoded/tripcoded/refs/heads/main/resources/logo1.png",
         "certificate_name": "Artificial Intelligence Certification",
         "issuing_authority": "Samsung Innovation Campus",
         "certified_for": "Certification"
       },
       {
-        "authority_logo": null,
+        "authority_logo": "https://raw.githubusercontent.com/tripcoded/tripcoded/refs/heads/main/resources/logo2.png",
         "certificate_name": "Google Analytics Certification",
         "issuing_authority": "Google Analytics",
         "certified_for": "Certification"
       },
       {
-        "authority_logo": null,
+        "authority_logo": "https://raw.githubusercontent.com/tripcoded/tripcoded/refs/heads/main/resources/logo3.png",
         "certificate_name": "Data Visualization Job Simulation",
         "issuing_authority": "Tata Group (Forage)",
         "certified_for": "Simulation"
@@ -143,7 +143,7 @@
         "certified_for": "Finalist"
       },
       {
-        "authority_logo": null,
+        "authority_logo": "https://raw.githubusercontent.com/tripcoded/tripcoded/refs/heads/main/resources/logo4.png",
         "certificate_name": "Data Analyst Certification",
         "issuing_authority": "United Latino Students Association",
         "certified_for": "Certification"
